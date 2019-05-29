@@ -1,6 +1,8 @@
 #                                                 好视频栏目列表
-[时事新闻](https://kqvrooyd.hpv.goweek.xyz/hp7186d9da519b991c2ba03c4c8c859e2c630c65b4444Z.4Sn.4DD.YnD/xNb/!Ln!iz!i4!LZ!0q!ZS/!Lq!i0!00!Ln!iz!dn/!Lq!0q!0S!Ln!0q!Zi!Lq!d0!Zq!Ln!Zn!in!Ld!0d!0m!LA!it!d4/5D4.6.mp4)    
-[记录片]  
-[江峰时刻]  
-[透视中国]  
-[中国和中共的关系]
+[时事新闻](https://github.com/begood0513/News)    
+[记录片](https://github.com/begood0513/Documentary)  
+[江峰时刻](https://github.com/begood0513/JiangFeng)  
+[透视中国](https://github.com/begood0513/TSChina)  
+[中国和中共的关系](https://github.com/begood0513/ZJMD)  
+   
+各位朋友在各个栏目中可以看到介绍，如果感兴趣可以给 begood0513@gmail.com 写信，我们会把视频下载地址发给您。
