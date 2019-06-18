@@ -1,7 +1,7 @@
 #                                                 好视频栏目列表
 [时事新闻](https://github.com/begood0513/XW)    
 [记录片](https://github.com/begood0513/JLP)  
-[明家讲坛](https://github.com/begood0513/MXLM)  
+[名家讲坛](https://github.com/begood0513/MXLM)  
 [透视中国](https://github.com/begood0513/TSZG)  
 [经典视频](https://github.com/begood0513/JDSP)  
    
